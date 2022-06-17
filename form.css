@@ -1,0 +1,47 @@
+*{
+    border-radius: 5px;
+    font-weight: bold;
+    padding: 10px;
+}
+.container{
+background-color: rgb(122, 216, 242);
+border: 5px solid rgb(64, 64, 220);
+}
+.title{
+    text-align: center;
+    color: red;
+    background-color: black;
+    font-size: xx-large;
+    text-emphasis-color: rgb(22, 1, 1);
+
+}
+div{
+    padding: 20px;
+}
+span,label{
+    margin: 5px;
+    text-align: left;
+    font-size: larger;
+    padding: 10px;
+}
+input[type=text]{
+    width: 100%;
+}
+.checkbx{
+margin: 0.1px;
+width: 10px;
+height: 20px;
+}
+input{
+    height: 30px;
+}
+button{
+    color: white;
+    background-color: red;
+    width: 75%;
+    padding: 10px;
+    margin: 5px;
+}
+button:hover{
+    background-color: rgb(33, 33, 124);
+}
